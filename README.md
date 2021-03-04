@@ -1,1 +1,1 @@
-# gcrl
+# goal-conditioned reinforcement learning in Pytorch
